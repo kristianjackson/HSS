@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['68.183.119.224', '127.0.0.1']
+ALLOWED_HOSTS = ['68.183.119.224', '127.0.0.1', 'dev.shoppingbyheather.com']
 
 # Application definition
 
