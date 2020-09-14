@@ -1,0 +1,4 @@
+env/
+.vscode
+hello/__pycache__/
+web_project/__pycache__/
